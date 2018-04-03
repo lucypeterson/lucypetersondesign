@@ -1,0 +1,113 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "lucypetersondesigncom",
+    "description": "",
+    "home_page_url": "http://github.com/lucypeterson/lucypetersondesign",
+    "feed_url": "http://github.com/lucypeterson/lucypetersondesign/feed.json",
+    "user_comment": "",
+    "icon": "http://github.com/lucypeterson/lucypetersondesign/media/website/logo.png",
+    "author": {
+        "name": "lucy peterson"
+    },
+    "items": [
+        {
+            "id": "http://github.com/lucypeterson/lucypetersondesign/design-thesis-show-production-2.html",
+            "url": "http://github.com/lucypeterson/lucypetersondesign/design-thesis-show-production-2.html",
+            "title": " Design Thesis Show Production image 1",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-04-03T13:01:22-07:00",
+            "date_modified": "2018-04-03T13:01:35-07:00"
+        },
+        {
+            "id": "http://github.com/lucypeterson/lucypetersondesign/design-thesis-show-production.html",
+            "url": "http://github.com/lucypeterson/lucypetersondesign/design-thesis-show-production.html",
+            "title": "Design Thesis Show Production ",
+            "image": "http://github.com/lucypeterson/lucypetersondesign/media/posts/7/thankyou.gif",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "DDTS"
+            ],
+            "date_published": "2018-03-13T13:55:06-07:00",
+            "date_modified": "2018-04-03T13:01:43-07:00"
+        },
+        {
+            "id": "http://github.com/lucypeterson/lucypetersondesign/i-love-california.html",
+            "url": "http://github.com/lucypeterson/lucypetersondesign/i-love-california.html",
+            "title": "I Love California",
+            "content_html": "<img src=\"http://github.com/lucypeterson/lucypetersondesign/media/posts/6/4900fabcae4c45d15428f30148c0f3d0.jpg\" alt=\"\" width=\"564\" height=\"760\">",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-03-13T13:54:26-07:00",
+            "date_modified": "2018-03-20T07:49:20-07:00"
+        },
+        {
+            "id": "http://github.com/lucypeterson/lucypetersondesign/francesca-woodman-exhibition-microsite.html",
+            "url": "http://github.com/lucypeterson/lucypetersondesign/francesca-woodman-exhibition-microsite.html",
+            "title": "Francesca Woodman Exhibition Microsite ",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-03-13T13:53:32-07:00",
+            "date_modified": "2018-03-13T13:53:32-07:00"
+        },
+        {
+            "id": "http://github.com/lucypeterson/lucypetersondesign/wild-west-css-typeface.html",
+            "url": "http://github.com/lucypeterson/lucypetersondesign/wild-west-css-typeface.html",
+            "title": "Wild West  CSS Typeface ",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-03-13T13:52:43-07:00",
+            "date_modified": "2018-03-13T13:52:43-07:00"
+        },
+        {
+            "id": "http://github.com/lucypeterson/lucypetersondesign/save-the-night-identity.html",
+            "url": "http://github.com/lucypeterson/lucypetersondesign/save-the-night-identity.html",
+            "title": "Save the Night Identity",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-03-13T13:52:12-07:00",
+            "date_modified": "2018-03-13T13:52:12-07:00"
+        },
+        {
+            "id": "http://github.com/lucypeterson/lucypetersondesign/b.html",
+            "url": "http://github.com/lucypeterson/lucypetersondesign/b.html",
+            "title": "Pottery Barn Kids Catalog Internship ",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-03-13T13:50:34-07:00",
+            "date_modified": "2018-03-13T13:52:04-07:00"
+        },
+        {
+            "id": "http://github.com/lucypeterson/lucypetersondesign/a.html",
+            "url": "http://github.com/lucypeterson/lucypetersondesign/a.html",
+            "title": "Dangerous Ideas on Design Education Book Design",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-03-13T13:50:30-07:00",
+            "date_modified": "2018-03-13T13:51:49-07:00"
+        }
+    ]
+}

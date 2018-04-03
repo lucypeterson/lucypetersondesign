@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>lucypetersondesigncom</title>
+    <link href="http://github.com/lucypeterson/lucypetersondesign/feed.xml" rel="self" />
+    <link href="http://github.com/lucypeterson/lucypetersondesign" />
+    <updated>2018-04-03T14:21:17-07:00</updated>
+    <author>
+        <name>lucy peterson</name>
+    </author>
+    <id>http://github.com/lucypeterson/lucypetersondesign</id>
+
+    <entry>
+        <title> Design Thesis Show Production image 1</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://github.com/lucypeterson/lucypetersondesign/design-thesis-show-production-2.html"/>
+        <id>http://github.com/lucypeterson/lucypetersondesign/design-thesis-show-production-2.html</id>
+
+        <updated>2018-04-03T13:01:35-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Design Thesis Show Production </title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://github.com/lucypeterson/lucypetersondesign/design-thesis-show-production.html"/>
+        <id>http://github.com/lucypeterson/lucypetersondesign/design-thesis-show-production.html</id>
+            <category term="DDTS"/>
+
+        <updated>2018-04-03T13:01:43-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>I Love California</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://github.com/lucypeterson/lucypetersondesign/i-love-california.html"/>
+        <id>http://github.com/lucypeterson/lucypetersondesign/i-love-california.html</id>
+
+        <updated>2018-03-20T07:49:20-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <img src="http://github.com/lucypeterson/lucypetersondesign/media/posts/6/4900fabcae4c45d15428f30148c0f3d0.jpg" alt="" width="564" height="760">
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Francesca Woodman Exhibition Microsite </title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://github.com/lucypeterson/lucypetersondesign/francesca-woodman-exhibition-microsite.html"/>
+        <id>http://github.com/lucypeterson/lucypetersondesign/francesca-woodman-exhibition-microsite.html</id>
+
+        <updated>2018-03-13T13:53:32-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Wild West  CSS Typeface </title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://github.com/lucypeterson/lucypetersondesign/wild-west-css-typeface.html"/>
+        <id>http://github.com/lucypeterson/lucypetersondesign/wild-west-css-typeface.html</id>
+
+        <updated>2018-03-13T13:52:43-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Save the Night Identity</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://github.com/lucypeterson/lucypetersondesign/save-the-night-identity.html"/>
+        <id>http://github.com/lucypeterson/lucypetersondesign/save-the-night-identity.html</id>
+
+        <updated>2018-03-13T13:52:12-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Pottery Barn Kids Catalog Internship </title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://github.com/lucypeterson/lucypetersondesign/b.html"/>
+        <id>http://github.com/lucypeterson/lucypetersondesign/b.html</id>
+
+        <updated>2018-03-13T13:52:04-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Dangerous Ideas on Design Education Book Design</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://github.com/lucypeterson/lucypetersondesign/a.html"/>
+        <id>http://github.com/lucypeterson/lucypetersondesign/a.html</id>
+
+        <updated>2018-03-13T13:51:49-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

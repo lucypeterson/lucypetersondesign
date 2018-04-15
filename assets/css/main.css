@@ -326,9 +326,9 @@ hr {
   display: flex;
   flex-wrap: nowrap;
   width: auto;
-  overflow-x: scroll;
   align-items: flex-start;
   box-sizing: border-box;
+  -webkit-overflow-scrolling: touch;
 }
 
 .main::after {
@@ -345,8 +345,27 @@ hr {
   padding-left: 30px;
 }
 
+.sidebar ul {
+  margin-top: 90px;
+}
+
 .sidebar .active {
   font-weight: bold;
+}
+
+.sidebar ul li {
+  list-style: none;
+}
+
+.sidebar ul img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+.project__title:hover+img {
+  opacity: 1;
 }
 
 @media all and (min-width: 37.5em) {
@@ -383,7 +402,7 @@ hr {
 }
 
 .logo img {
-  max-height: 90px;
+  max-height: 80px;
 }
 
 .logo {
@@ -855,7 +874,7 @@ hr {
   flex-shrink: 0;
 }
 
-article img {
+article img, article video {
   height: 100%;
   box-sizing: border-box;
   padding-bottom: 45px;
@@ -1462,6 +1481,47 @@ article.post p {
 
 .pswp--light .pswp__caption__center {
   color: #343434;
+}
+
+.collection-images {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: 0vw;
+  z-index: 1;
+}
+
+.collection-images .image-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-size: contain !important;
+  background-position: -9999px -9999px !important;
+  background-repeat: no-repeat !important;
+}
+
+.collection-images .image-container.hovered {
+  background-position: center !important;
+}
+
+.sidebar {
+  position: absolute;
+  z-index: 2;
+}
+
+.sidebar .project__title {
+  font-size: 800%;
+  line-height: 100%;
+}
+
+header .nav-link {
+  line-height: 90px;
+  font-size: 1.3em;
+  margin: 0 2em;
 }
 
 /*# sourceMappingURL=main.css.map */

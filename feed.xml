@@ -1,28 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>lucypetersondesigncom</title>
+    <title>lucy-peterson-design</title>
     <link href="https://lucypeterson.github.io/lucypetersondesign/feed.xml" rel="self" />
     <link href="https://lucypeterson.github.io/lucypetersondesign" />
-    <updated>2018-04-03T14:58:07-07:00</updated>
+    <updated>2018-04-15T13:35:33-07:00</updated>
     <author>
         <name>lucy peterson</name>
     </author>
     <id>https://lucypeterson.github.io/lucypetersondesign</id>
 
     <entry>
-        <title> Design Thesis Show Production image 1</title>
+        <title>micro site - video</title>
         <author>
             <name>lucy peterson</name>
         </author>
-        <link href="https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production-2.html"/>
-        <id>https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production-2.html</id>
+        <link href="https://lucypeterson.github.io/lucypetersondesign/micro-site-video.html"/>
+        <id>https://lucypeterson.github.io/lucypetersondesign/micro-site-video.html</id>
+            <category term="MICROSITE"/>
 
-        <updated>2018-04-03T13:01:35-07:00</updated>
+        <updated>2018-04-14T16:25:14-07:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>Design Thesis Show Production </title>
+        <title>i love ca - video </title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="https://lucypeterson.github.io/lucypetersondesign/i-love-ca-video.html"/>
+        <id>https://lucypeterson.github.io/lucypetersondesign/i-love-ca-video.html</id>
+            <category term="ILOVECA"/>
+
+        <updated>2018-04-14T15:49:29-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>css typefase wild west - video</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="https://lucypeterson.github.io/lucypetersondesign/css-typefase-wild-west-video.html"/>
+        <id>https://lucypeterson.github.io/lucypetersondesign/css-typefase-wild-west-video.html</id>
+            <category term="WILDWEST"/>
+
+        <updated>2018-04-11T22:36:06-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Design Thesis Show (hero)</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-hero.html"/>
+        <id>https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-hero.html</id>
+            <category term="DDTS"/>
+
+        <updated>2018-04-14T18:20:37-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Design Thesis Show</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-2.html"/>
+        <id>https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-2.html</id>
+            <category term="DDTS"/>
+
+        <updated>2018-04-10T19:17:26-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Design Thesis Show</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="https://lucypeterson.github.io/lucypetersondesign/design-thesis-show.html"/>
+        <id>https://lucypeterson.github.io/lucypetersondesign/design-thesis-show.html</id>
+            <category term="DDTS"/>
+
+        <updated>2018-04-14T18:21:44-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Design Thesis Show</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-3.html"/>
+        <id>https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-3.html</id>
+            <category term="DDTS"/>
+
+        <updated>2018-04-14T18:22:39-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title> Design Thesis Show Production</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production-4.html"/>
+        <id>https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production-4.html</id>
+            <category term="DDTS"/>
+
+        <updated>2018-04-14T16:57:52-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title> Design Thesis Show Production</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production-3.html"/>
+        <id>https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production-3.html</id>
+            <category term="DDTS"/>
+
+        <updated>2018-04-14T16:57:32-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Design Division Thesis Show </title>
         <author>
             <name>lucy peterson</name>
         </author>
@@ -30,89 +135,19 @@
         <id>https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production.html</id>
             <category term="DDTS"/>
 
-        <updated>2018-04-03T14:56:00-07:00</updated>
+        <updated>2018-04-14T17:06:54-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://lucypeterson.github.io/lucypetersondesign/media/posts/7/thankyou.gif" alt="" />
-                In collaboration with Gráinne Hebeler and Taylor Bird we produced the Fall 2017 Design Devision Thesis show at California College of the Arts. For the first time at CCA multiple design devisions came together to exhibit their thesis work in the same space. My roles for this project included managing the printing and installation of the exhibition graphics, helping to build the installations in space (see the cardboard wall in the images). I also assisted the artists from all three disciplines install their work and de-installed the show, coordinating the donations of extra materials. This project allowed me to learn stronger project management skills, how to produce a successful event, and think about space and how tactility and dimensionality could exist in the work I do.
+                    <img src="https://lucypeterson.github.io/lucypetersondesign/media/posts/7/ddtshover.jpg" alt="" />
+                <p>In collaboration with Gráinne Hebeler and Taylor Bird we produced the Fall 2017 Design Division Thesis show at California College of the Arts. For the first time at CCA multiple design divisions came together to exhibit their thesis work in the same space.</p>
+<p><strong>Role:</strong> managing the printing and installation of the exhibition graphics, helping to build the installations in space (see the cardboard wall in the images). I also assisted the artists from all three disciplines install their work and de-installed the show, coordinating the donations of extra materials.</p>
+<p><strong>Learnings:</strong> This project allowed me to learn stronger project management skills, how to produce a successful event, and think about space and how tactility and dimensionality could exist in the work I do.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>I Love California</title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="https://lucypeterson.github.io/lucypetersondesign/i-love-california.html"/>
-        <id>https://lucypeterson.github.io/lucypetersondesign/i-love-california.html</id>
-
-        <updated>2018-03-20T07:49:20-07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <img src="https://lucypeterson.github.io/lucypetersondesign/media/posts/6/4900fabcae4c45d15428f30148c0f3d0.jpg" alt="" width="564" height="760">
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Francesca Woodman Exhibition Microsite </title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="https://lucypeterson.github.io/lucypetersondesign/francesca-woodman-exhibition-microsite.html"/>
-        <id>https://lucypeterson.github.io/lucypetersondesign/francesca-woodman-exhibition-microsite.html</id>
-
-        <updated>2018-03-13T13:53:32-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Wild West  CSS Typeface </title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="https://lucypeterson.github.io/lucypetersondesign/wild-west-css-typeface.html"/>
-        <id>https://lucypeterson.github.io/lucypetersondesign/wild-west-css-typeface.html</id>
-
-        <updated>2018-03-13T13:52:43-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Save the Night Identity</title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="https://lucypeterson.github.io/lucypetersondesign/save-the-night-identity.html"/>
-        <id>https://lucypeterson.github.io/lucypetersondesign/save-the-night-identity.html</id>
-
-        <updated>2018-03-13T13:52:12-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Pottery Barn Kids Catalog Internship </title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="https://lucypeterson.github.io/lucypetersondesign/b.html"/>
-        <id>https://lucypeterson.github.io/lucypetersondesign/b.html</id>
-
-        <updated>2018-03-13T13:52:04-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Dangerous Ideas on Design Education Book Design</title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="https://lucypeterson.github.io/lucypetersondesign/a.html"/>
-        <id>https://lucypeterson.github.io/lucypetersondesign/a.html</id>
-
-        <updated>2018-03-13T13:51:49-07:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
 </feed>

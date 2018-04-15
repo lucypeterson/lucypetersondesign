@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "lucypetersondesigncom",
+    "title": "lucy-peterson-design",
     "description": "",
     "home_page_url": "https://lucypeterson.github.io/lucypetersondesign",
     "feed_url": "https://lucypeterson.github.io/lucypetersondesign/feed.json",
@@ -11,104 +11,142 @@
     },
     "items": [
         {
-            "id": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production-2.html",
-            "url": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production-2.html",
-            "title": " Design Thesis Show Production image 1",
+            "id": "https://lucypeterson.github.io/lucypetersondesign/micro-site-video.html",
+            "url": "https://lucypeterson.github.io/lucypetersondesign/micro-site-video.html",
+            "title": "micro site - video",
             "author": {
                 "name": "lucy peterson"
             },
             "tags": [
+                   "MICROSITE"
             ],
-            "date_published": "2018-04-03T13:01:22-07:00",
-            "date_modified": "2018-04-03T13:01:35-07:00"
+            "date_published": "2018-04-14T16:25:14-07:00",
+            "date_modified": "2018-04-14T16:25:14-07:00"
         },
         {
-            "id": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production.html",
-            "url": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production.html",
-            "title": "Design Thesis Show Production ",
-            "content_html": "In collaboration with Gráinne Hebeler and Taylor Bird we produced the Fall 2017 Design Devision Thesis show at California College of the Arts. For the first time at CCA multiple design devisions came together to exhibit their thesis work in the same space. My roles for this project included managing the printing and installation of the exhibition graphics, helping to build the installations in space (see the cardboard wall in the images). I also assisted the artists from all three disciplines install their work and de-installed the show, coordinating the donations of extra materials. This project allowed me to learn stronger project management skills, how to produce a successful event, and think about space and how tactility and dimensionality could exist in the work I do.",
-            "image": "https://lucypeterson.github.io/lucypetersondesign/media/posts/7/thankyou.gif",
+            "id": "https://lucypeterson.github.io/lucypetersondesign/i-love-ca-video.html",
+            "url": "https://lucypeterson.github.io/lucypetersondesign/i-love-ca-video.html",
+            "title": "i love ca - video ",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "ILOVECA"
+            ],
+            "date_published": "2018-04-14T15:49:29-07:00",
+            "date_modified": "2018-04-14T15:49:29-07:00"
+        },
+        {
+            "id": "https://lucypeterson.github.io/lucypetersondesign/css-typefase-wild-west-video.html",
+            "url": "https://lucypeterson.github.io/lucypetersondesign/css-typefase-wild-west-video.html",
+            "title": "css typefase wild west - video",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "WILDWEST"
+            ],
+            "date_published": "2018-04-11T22:36:06-07:00",
+            "date_modified": "2018-04-11T22:36:06-07:00"
+        },
+        {
+            "id": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-hero.html",
+            "url": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-hero.html",
+            "title": "Design Thesis Show (hero)",
+            "image": "https://lucypeterson.github.io/lucypetersondesign/media/posts/67/CCA_DDTS-81.jpg",
             "author": {
                 "name": "lucy peterson"
             },
             "tags": [
                    "DDTS"
             ],
-            "date_published": "2018-03-13T13:55:06-07:00",
-            "date_modified": "2018-04-03T14:56:00-07:00"
+            "date_published": "2017-12-30T12:21:00-08:00",
+            "date_modified": "2018-04-14T18:20:37-07:00"
         },
         {
-            "id": "https://lucypeterson.github.io/lucypetersondesign/i-love-california.html",
-            "url": "https://lucypeterson.github.io/lucypetersondesign/i-love-california.html",
-            "title": "I Love California",
-            "content_html": "<img src=\"https://lucypeterson.github.io/lucypetersondesign/media/posts/6/4900fabcae4c45d15428f30148c0f3d0.jpg\" alt=\"\" width=\"564\" height=\"760\">",
+            "id": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-2.html",
+            "url": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-2.html",
+            "title": "Design Thesis Show",
+            "image": "https://lucypeterson.github.io/lucypetersondesign/media/posts/12/CCA_DDTS-73.jpg",
             "author": {
                 "name": "lucy peterson"
             },
             "tags": [
+                   "DDTS"
             ],
-            "date_published": "2018-03-13T13:54:26-07:00",
-            "date_modified": "2018-03-20T07:49:20-07:00"
+            "date_published": "2017-07-03T16:06:00-07:00",
+            "date_modified": "2018-04-10T19:17:26-07:00"
         },
         {
-            "id": "https://lucypeterson.github.io/lucypetersondesign/francesca-woodman-exhibition-microsite.html",
-            "url": "https://lucypeterson.github.io/lucypetersondesign/francesca-woodman-exhibition-microsite.html",
-            "title": "Francesca Woodman Exhibition Microsite ",
+            "id": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show.html",
+            "url": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show.html",
+            "title": "Design Thesis Show",
+            "image": "https://lucypeterson.github.io/lucypetersondesign/media/posts/11/CCA_DDTS-69.jpg",
             "author": {
                 "name": "lucy peterson"
             },
             "tags": [
+                   "DDTS"
             ],
-            "date_published": "2018-03-13T13:53:32-07:00",
-            "date_modified": "2018-03-13T13:53:32-07:00"
+            "date_published": "2017-06-01T16:05:00-07:00",
+            "date_modified": "2018-04-14T18:21:44-07:00"
         },
         {
-            "id": "https://lucypeterson.github.io/lucypetersondesign/wild-west-css-typeface.html",
-            "url": "https://lucypeterson.github.io/lucypetersondesign/wild-west-css-typeface.html",
-            "title": "Wild West  CSS Typeface ",
+            "id": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-3.html",
+            "url": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-3.html",
+            "title": "Design Thesis Show",
+            "image": "https://lucypeterson.github.io/lucypetersondesign/media/posts/13/CCA_DDTS-95.jpg",
             "author": {
                 "name": "lucy peterson"
             },
             "tags": [
+                   "DDTS"
             ],
-            "date_published": "2018-03-13T13:52:43-07:00",
-            "date_modified": "2018-03-13T13:52:43-07:00"
+            "date_published": "2017-06-01T14:14:00-07:00",
+            "date_modified": "2018-04-14T18:22:39-07:00"
         },
         {
-            "id": "https://lucypeterson.github.io/lucypetersondesign/save-the-night-identity.html",
-            "url": "https://lucypeterson.github.io/lucypetersondesign/save-the-night-identity.html",
-            "title": "Save the Night Identity",
+            "id": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production-4.html",
+            "url": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production-4.html",
+            "title": " Design Thesis Show Production",
+            "image": "https://lucypeterson.github.io/lucypetersondesign/media/posts/10/CCA_DDTS-34.jpg",
             "author": {
                 "name": "lucy peterson"
             },
             "tags": [
+                   "DDTS"
             ],
-            "date_published": "2018-03-13T13:52:12-07:00",
-            "date_modified": "2018-03-13T13:52:12-07:00"
+            "date_published": "2017-05-01T15:17:00-07:00",
+            "date_modified": "2018-04-14T16:57:52-07:00"
         },
         {
-            "id": "https://lucypeterson.github.io/lucypetersondesign/b.html",
-            "url": "https://lucypeterson.github.io/lucypetersondesign/b.html",
-            "title": "Pottery Barn Kids Catalog Internship ",
+            "id": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production-3.html",
+            "url": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production-3.html",
+            "title": " Design Thesis Show Production",
+            "image": "https://lucypeterson.github.io/lucypetersondesign/media/posts/9/CCA_DDTS-17.jpg",
             "author": {
                 "name": "lucy peterson"
             },
             "tags": [
+                   "DDTS"
             ],
-            "date_published": "2018-03-13T13:50:34-07:00",
-            "date_modified": "2018-03-13T13:52:04-07:00"
+            "date_published": "2017-04-01T15:17:00-07:00",
+            "date_modified": "2018-04-14T16:57:32-07:00"
         },
         {
-            "id": "https://lucypeterson.github.io/lucypetersondesign/a.html",
-            "url": "https://lucypeterson.github.io/lucypetersondesign/a.html",
-            "title": "Dangerous Ideas on Design Education Book Design",
+            "id": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production.html",
+            "url": "https://lucypeterson.github.io/lucypetersondesign/design-thesis-show-production.html",
+            "title": "Design Division Thesis Show ",
+            "content_html": "<p>In collaboration with Gráinne Hebeler and Taylor Bird we produced the Fall 2017 Design Division Thesis show at California College of the Arts. For the first time at CCA multiple design divisions came together to exhibit their thesis work in the same space.</p>\n<p><strong>Role:</strong> managing the printing and installation of the exhibition graphics, helping to build the installations in space (see the cardboard wall in the images). I also assisted the artists from all three disciplines install their work and de-installed the show, coordinating the donations of extra materials.</p>\n<p><strong>Learnings:</strong> This project allowed me to learn stronger project management skills, how to produce a successful event, and think about space and how tactility and dimensionality could exist in the work I do.</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "image": "https://lucypeterson.github.io/lucypetersondesign/media/posts/7/ddtshover.jpg",
             "author": {
                 "name": "lucy peterson"
             },
             "tags": [
+                   "DDTS"
             ],
-            "date_published": "2018-03-13T13:50:30-07:00",
-            "date_modified": "2018-03-13T13:51:49-07:00"
+            "date_published": "2017-03-13T13:55:00-07:00",
+            "date_modified": "2018-04-14T17:06:54-07:00"
         }
     ]
 }

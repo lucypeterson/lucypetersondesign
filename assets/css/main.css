@@ -1524,4 +1524,16 @@ header .nav-link {
   margin: 0 2em;
 }
 
+.next {
+  display: none;
+}
+
+.next.active+.next {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 45px;
+  min-width: 300px;
+}
+
 /*# sourceMappingURL=main.css.map */

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Lucy Peterson Design</title>
+    <title>lucy-peterson-design</title>
     <link href="http://lucypetersondesign.com/feed.xml" rel="self" />
     <link href="http://lucypetersondesign.com" />
-    <updated>2018-10-27T14:09:31-07:00</updated>
+    <updated>2019-02-20T21:12:28-08:00</updated>
     <author>
         <name>lucy peterson</name>
     </author>
@@ -136,12 +136,7 @@
             <category term="DDTS"/>
 
         <updated>2018-04-15T22:23:20-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="http://lucypetersondesign.com/media/posts/7/ddtshover.jpg" alt="" />
-                    In collaboration with Gráinne Hebeler and Taylor Bird we produced the Fall 2017 Design Division&hellip;
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="http://lucypetersondesign.com/media/posts/7/ddtshover.jpg" alt="" />

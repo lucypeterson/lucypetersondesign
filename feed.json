@@ -11,6 +11,91 @@
     },
     "items": [
         {
+            "id": "http://lucypetersondesign.com/ccg-al-farrow.html",
+            "url": "http://lucypetersondesign.com/ccg-al-farrow.html",
+            "title": "ccg - al farrow",
+            "image": "http://lucypetersondesign.com/media/posts/87/AlFarrow.jpg",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "CCG"
+            ],
+            "date_published": "2019-03-19T22:50:00-07:00",
+            "date_modified": "2019-03-19T22:50:00-07:00"
+        },
+        {
+            "id": "http://lucypetersondesign.com/ccg-box-blur.html",
+            "url": "http://lucypetersondesign.com/ccg-box-blur.html",
+            "title": "ccg - box blur",
+            "image": "http://lucypetersondesign.com/media/posts/86/BoxBlur.jpg",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "CCG"
+            ],
+            "date_published": "2019-03-19T21:57:00-07:00",
+            "date_modified": "2019-03-19T22:09:34-07:00"
+        },
+        {
+            "id": "http://lucypetersondesign.com/ccg-josephine-taylor.html",
+            "url": "http://lucypetersondesign.com/ccg-josephine-taylor.html",
+            "title": "ccg - josephine taylor",
+            "image": "http://lucypetersondesign.com/media/posts/84/jotaylor.jpg",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "CCG"
+            ],
+            "date_published": "2019-03-19T21:55:19-07:00",
+            "date_modified": "2019-03-19T21:55:19-07:00"
+        },
+        {
+            "id": "http://lucypetersondesign.com/ccg-jon-bernson.html",
+            "url": "http://lucypetersondesign.com/ccg-jon-bernson.html",
+            "title": "ccg - jon bernson",
+            "image": "http://lucypetersondesign.com/media/posts/83/jonbernson.jpg",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "CCG"
+            ],
+            "date_published": "2019-03-19T21:55:01-07:00",
+            "date_modified": "2019-03-19T21:55:01-07:00"
+        },
+        {
+            "id": "http://lucypetersondesign.com/ccg-leonora.html",
+            "url": "http://lucypetersondesign.com/ccg-leonora.html",
+            "title": "ccg - leonora",
+            "image": "http://lucypetersondesign.com/media/posts/85/LeonoraCarrington.jpg",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "CCG"
+            ],
+            "date_published": "2019-03-19T21:51:00-07:00",
+            "date_modified": "2019-03-19T22:10:14-07:00"
+        },
+        {
+            "id": "http://lucypetersondesign.com/catharine-clark-gallery.html",
+            "url": "http://lucypetersondesign.com/catharine-clark-gallery.html",
+            "title": "Catharine Clark Gallery ",
+            "content_html": "<p class=\"p1\"><strong>Design Challenge:</strong> To create unique and creative marketing collateral for the gallery while maintaining but refreshing the brand</p>\n<p class=\"p1\"><strong>Targeted Audience:</strong> Collectors, both previous and new, new audience members for the gallery and gallery events</p>\n<p class=\"p1\"><strong>The Solution:</strong> Working in the loose guidelines that had been established, I made design choices to elevate the brand without losing its identity, such selecting a new well designed typeface, creating layout standards, and maintaining brand treatment across collateral. I used photography and the work of the artists to enhance marketing materials, making it about the art and promoting the artist’s work.</p>\n<p class=\"p2\"> </p>\n<p class=\"p2\"> </p>",
+            "image": "http://lucypetersondesign.com/media/posts/82/CCGhover.jpg",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "CCG"
+            ],
+            "date_published": "2019-03-19T21:48:51-07:00",
+            "date_modified": "2019-03-19T22:03:47-07:00"
+        },
+        {
             "id": "http://lucypetersondesign.com/micro-site-video.html",
             "url": "http://lucypetersondesign.com/micro-site-video.html",
             "title": "micro site - video",
@@ -62,91 +147,6 @@
             ],
             "date_published": "2017-12-30T12:21:00-08:00",
             "date_modified": "2018-04-14T18:20:37-07:00"
-        },
-        {
-            "id": "http://lucypetersondesign.com/design-thesis-show-2.html",
-            "url": "http://lucypetersondesign.com/design-thesis-show-2.html",
-            "title": "Design Thesis Show",
-            "image": "http://lucypetersondesign.com/media/posts/12/CCA_DDTS-73.jpg",
-            "author": {
-                "name": "lucy peterson"
-            },
-            "tags": [
-                   "DDTS"
-            ],
-            "date_published": "2017-07-03T16:06:00-07:00",
-            "date_modified": "2018-04-10T19:17:26-07:00"
-        },
-        {
-            "id": "http://lucypetersondesign.com/design-thesis-show.html",
-            "url": "http://lucypetersondesign.com/design-thesis-show.html",
-            "title": "Design Thesis Show",
-            "image": "http://lucypetersondesign.com/media/posts/11/CCA_DDTS-69.jpg",
-            "author": {
-                "name": "lucy peterson"
-            },
-            "tags": [
-                   "DDTS"
-            ],
-            "date_published": "2017-06-01T16:05:00-07:00",
-            "date_modified": "2018-04-14T18:21:44-07:00"
-        },
-        {
-            "id": "http://lucypetersondesign.com/design-thesis-show-3.html",
-            "url": "http://lucypetersondesign.com/design-thesis-show-3.html",
-            "title": "Design Thesis Show",
-            "image": "http://lucypetersondesign.com/media/posts/13/CCA_DDTS-95.jpg",
-            "author": {
-                "name": "lucy peterson"
-            },
-            "tags": [
-                   "DDTS"
-            ],
-            "date_published": "2017-06-01T14:14:00-07:00",
-            "date_modified": "2018-04-14T18:22:39-07:00"
-        },
-        {
-            "id": "http://lucypetersondesign.com/design-thesis-show-production-4.html",
-            "url": "http://lucypetersondesign.com/design-thesis-show-production-4.html",
-            "title": " Design Thesis Show Production",
-            "image": "http://lucypetersondesign.com/media/posts/10/CCA_DDTS-34.jpg",
-            "author": {
-                "name": "lucy peterson"
-            },
-            "tags": [
-                   "DDTS"
-            ],
-            "date_published": "2017-05-01T15:17:00-07:00",
-            "date_modified": "2018-04-14T16:57:52-07:00"
-        },
-        {
-            "id": "http://lucypetersondesign.com/design-thesis-show-production-3.html",
-            "url": "http://lucypetersondesign.com/design-thesis-show-production-3.html",
-            "title": " Design Thesis Show Production",
-            "image": "http://lucypetersondesign.com/media/posts/9/CCA_DDTS-17.jpg",
-            "author": {
-                "name": "lucy peterson"
-            },
-            "tags": [
-                   "DDTS"
-            ],
-            "date_published": "2017-04-01T15:17:00-07:00",
-            "date_modified": "2018-04-14T16:57:32-07:00"
-        },
-        {
-            "id": "http://lucypetersondesign.com/design-thesis-show-production.html",
-            "url": "http://lucypetersondesign.com/design-thesis-show-production.html",
-            "title": "Design Division Thesis Show ",
-            "content_html": "<p>In collaboration with Gráinne Hebeler and Taylor Bird we produced the Fall 2017 Design Division Thesis show at California College of the Arts. For the first time at CCA multiple design divisions came together to exhibit their thesis work in the same space.</p>\n<p><strong>Role:</strong> managing the printing and installation of the exhibition graphics, helping to build the installations in space (see the cardboard wall in the images). I also assisted the artists from all three disciplines install their work. I de-installed the show, coordinating the donations of extra materials.</p>\n<p><strong>Learnings:</strong> This project allowed me to learn strong project management skills, how to produce a successful event, and think about space and how tactility and dimensionality could exist in the work I do.</p>",
-            "image": "http://lucypetersondesign.com/media/posts/7/ddtshover.jpg",
-            "author": {
-                "name": "lucy peterson"
-            },
-            "tags": [
-                   "DDTS"
-            ],
-            "date_published": "2017-03-13T13:55:00-07:00",
-            "date_modified": "2018-04-15T22:23:20-07:00"
         }
     ]
 }

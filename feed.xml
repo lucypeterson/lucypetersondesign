@@ -3,12 +3,99 @@
     <title>lucy-peterson-design</title>
     <link href="http://lucypetersondesign.com/feed.xml" rel="self" />
     <link href="http://lucypetersondesign.com" />
-    <updated>2019-02-28T16:03:24-08:00</updated>
+    <updated>2019-03-20T20:33:28-07:00</updated>
     <author>
         <name>lucy peterson</name>
     </author>
     <id>http://lucypetersondesign.com</id>
 
+    <entry>
+        <title>ccg - al farrow</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://lucypetersondesign.com/ccg-al-farrow.html"/>
+        <id>http://lucypetersondesign.com/ccg-al-farrow.html</id>
+            <category term="CCG"/>
+
+        <updated>2019-03-19T22:50:00-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>ccg - box blur</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://lucypetersondesign.com/ccg-box-blur.html"/>
+        <id>http://lucypetersondesign.com/ccg-box-blur.html</id>
+            <category term="CCG"/>
+
+        <updated>2019-03-19T22:09:34-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>ccg - josephine taylor</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://lucypetersondesign.com/ccg-josephine-taylor.html"/>
+        <id>http://lucypetersondesign.com/ccg-josephine-taylor.html</id>
+            <category term="CCG"/>
+
+        <updated>2019-03-19T21:55:19-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>ccg - jon bernson</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://lucypetersondesign.com/ccg-jon-bernson.html"/>
+        <id>http://lucypetersondesign.com/ccg-jon-bernson.html</id>
+            <category term="CCG"/>
+
+        <updated>2019-03-19T21:55:01-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>ccg - leonora</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://lucypetersondesign.com/ccg-leonora.html"/>
+        <id>http://lucypetersondesign.com/ccg-leonora.html</id>
+            <category term="CCG"/>
+
+        <updated>2019-03-19T22:10:14-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Catharine Clark Gallery </title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://lucypetersondesign.com/catharine-clark-gallery.html"/>
+        <id>http://lucypetersondesign.com/catharine-clark-gallery.html</id>
+            <category term="CCG"/>
+
+        <updated>2019-03-19T22:03:47-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://lucypetersondesign.com/media/posts/82/CCGhover.jpg" alt="" />
+                <p class="p1"><strong>Design Challenge:</strong> To create unique and creative marketing collateral for the gallery while maintaining but refreshing the brand</p>
+<p class="p1"><strong>Targeted Audience:</strong> Collectors, both previous and new, new audience members for the gallery and gallery events</p>
+<p class="p1"><strong>The Solution:</strong> Working in the loose guidelines that had been established, I made design choices to elevate the brand without losing its identity, such selecting a new well designed typeface, creating layout standards, and maintaining brand treatment across collateral. I used photography and the work of the artists to enhance marketing materials, making it about the art and promoting the artist’s work.</p>
+<p class="p2"> </p>
+<p class="p2"> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>micro site - video</title>
         <author>
@@ -60,90 +147,5 @@
         <updated>2018-04-14T18:20:37-07:00</updated>
             <summary></summary>
         <content></content>
-    </entry>
-    <entry>
-        <title>Design Thesis Show</title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="http://lucypetersondesign.com/design-thesis-show-2.html"/>
-        <id>http://lucypetersondesign.com/design-thesis-show-2.html</id>
-            <category term="DDTS"/>
-
-        <updated>2018-04-10T19:17:26-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Design Thesis Show</title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="http://lucypetersondesign.com/design-thesis-show.html"/>
-        <id>http://lucypetersondesign.com/design-thesis-show.html</id>
-            <category term="DDTS"/>
-
-        <updated>2018-04-14T18:21:44-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Design Thesis Show</title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="http://lucypetersondesign.com/design-thesis-show-3.html"/>
-        <id>http://lucypetersondesign.com/design-thesis-show-3.html</id>
-            <category term="DDTS"/>
-
-        <updated>2018-04-14T18:22:39-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title> Design Thesis Show Production</title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="http://lucypetersondesign.com/design-thesis-show-production-4.html"/>
-        <id>http://lucypetersondesign.com/design-thesis-show-production-4.html</id>
-            <category term="DDTS"/>
-
-        <updated>2018-04-14T16:57:52-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title> Design Thesis Show Production</title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="http://lucypetersondesign.com/design-thesis-show-production-3.html"/>
-        <id>http://lucypetersondesign.com/design-thesis-show-production-3.html</id>
-            <category term="DDTS"/>
-
-        <updated>2018-04-14T16:57:32-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Design Division Thesis Show </title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="http://lucypetersondesign.com/design-thesis-show-production.html"/>
-        <id>http://lucypetersondesign.com/design-thesis-show-production.html</id>
-            <category term="DDTS"/>
-
-        <updated>2018-04-15T22:23:20-07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://lucypetersondesign.com/media/posts/7/ddtshover.jpg" alt="" />
-                <p>In collaboration with Gráinne Hebeler and Taylor Bird we produced the Fall 2017 Design Division Thesis show at California College of the Arts. For the first time at CCA multiple design divisions came together to exhibit their thesis work in the same space.</p>
-<p><strong>Role:</strong> managing the printing and installation of the exhibition graphics, helping to build the installations in space (see the cardboard wall in the images). I also assisted the artists from all three disciplines install their work. I de-installed the show, coordinating the donations of extra materials.</p>
-<p><strong>Learnings:</strong> This project allowed me to learn strong project management skills, how to produce a successful event, and think about space and how tactility and dimensionality could exist in the work I do.</p>
-            ]]>
-        </content>
     </entry>
 </feed>

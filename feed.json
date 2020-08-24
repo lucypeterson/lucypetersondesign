@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "http://lucypetersondesign.com/the-portal-coalition.html",
+            "url": "http://lucypetersondesign.com/the-portal-coalition.html",
+            "title": "The Portal Coalition",
+            "content_html": "<p class=\"p1\"><strong>Design Challenge:</strong></p>\n<p class=\"p1\"> </p>\n<p class=\"p1\"><strong>Targeted Audience: </strong></p>\n<p class=\"p1\"> </p>\n<p class=\"p1\"><strong>The Solution:</strong></p>",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "PORTAL"
+            ],
+            "date_published": "2020-08-23T16:52:13-07:00",
+            "date_modified": "2020-08-23T17:06:20-07:00"
+        },
+        {
             "id": "http://lucypetersondesign.com/ccg-al-farrow.html",
             "url": "http://lucypetersondesign.com/ccg-al-farrow.html",
             "title": "ccg - al farrow",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2018-04-11T22:36:06-07:00",
             "date_modified": "2018-04-11T22:36:06-07:00"
-        },
-        {
-            "id": "http://lucypetersondesign.com/design-thesis-show-hero.html",
-            "url": "http://lucypetersondesign.com/design-thesis-show-hero.html",
-            "title": "Design Thesis Show (hero)",
-            "image": "http://lucypetersondesign.com/media/posts/67/CCA_DDTS-81.jpg",
-            "author": {
-                "name": "lucy peterson"
-            },
-            "tags": [
-                   "DDTS"
-            ],
-            "date_published": "2017-12-30T12:21:00-08:00",
-            "date_modified": "2018-04-14T18:20:37-07:00"
         }
     ]
 }

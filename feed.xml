@@ -3,12 +3,33 @@
     <title>lucy-peterson-design</title>
     <link href="http://lucypetersondesign.com/feed.xml" rel="self" />
     <link href="http://lucypetersondesign.com" />
-    <updated>2019-10-18T16:18:03-07:00</updated>
+    <updated>2020-08-23T17:06:28-07:00</updated>
     <author>
         <name>lucy peterson</name>
     </author>
     <id>http://lucypetersondesign.com</id>
 
+    <entry>
+        <title>The Portal Coalition</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://lucypetersondesign.com/the-portal-coalition.html"/>
+        <id>http://lucypetersondesign.com/the-portal-coalition.html</id>
+            <category term="PORTAL"/>
+
+        <updated>2020-08-23T17:06:20-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p class="p1"><strong>Design Challenge:</strong></p>
+<p class="p1"> </p>
+<p class="p1"><strong>Targeted Audience: </strong></p>
+<p class="p1"> </p>
+<p class="p1"><strong>The Solution:</strong></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>ccg - al farrow</title>
         <author>
@@ -132,19 +153,6 @@
             <category term="WILDWEST"/>
 
         <updated>2018-04-11T22:36:06-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Design Thesis Show (hero)</title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="http://lucypetersondesign.com/design-thesis-show-hero.html"/>
-        <id>http://lucypetersondesign.com/design-thesis-show-hero.html</id>
-            <category term="DDTS"/>
-
-        <updated>2018-04-14T18:20:37-07:00</updated>
             <summary></summary>
         <content></content>
     </entry>

@@ -3,12 +3,38 @@
     <title>lucy-peterson-design</title>
     <link href="http://lucypetersondesign.com/feed.xml" rel="self" />
     <link href="http://lucypetersondesign.com" />
-    <updated>2021-02-02T00:00:15-08:00</updated>
+    <updated>2021-02-02T00:18:16-08:00</updated>
     <author>
         <name>lucy peterson</name>
     </author>
     <id>http://lucypetersondesign.com</id>
 
+    <entry>
+        <title>tactile – gif</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://lucypetersondesign.com/tactile-gif.html"/>
+        <id>http://lucypetersondesign.com/tactile-gif.html</id>
+            <category term="TACTILE"/>
+
+        <updated>2021-02-02T00:18:08-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Tactile Exhibition Design &amp; Branding</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://lucypetersondesign.com/tactile-exhibition-design-and-branding.html"/>
+        <id>http://lucypetersondesign.com/tactile-exhibition-design-and-branding.html</id>
+            <category term="TACTILE"/>
+
+        <updated>2021-02-02T00:09:14-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>The Portal Coalition</title>
         <author>
@@ -127,32 +153,6 @@
             <category term="MICROSITE"/>
 
         <updated>2018-04-14T16:25:14-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>i love ca - video </title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="http://lucypetersondesign.com/i-love-ca-video.html"/>
-        <id>http://lucypetersondesign.com/i-love-ca-video.html</id>
-            <category term="ILOVECA"/>
-
-        <updated>2018-04-14T15:49:29-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>css typefase wild west - video</title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="http://lucypetersondesign.com/css-typefase-wild-west-video.html"/>
-        <id>http://lucypetersondesign.com/css-typefase-wild-west-video.html</id>
-            <category term="WILDWEST"/>
-
-        <updated>2018-04-11T22:36:06-07:00</updated>
             <summary></summary>
         <content></content>
     </entry>

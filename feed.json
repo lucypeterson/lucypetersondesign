@@ -11,6 +11,90 @@
     },
     "items": [
         {
+            "id": "http://lucypetersondesign.com/tactile-hero.html",
+            "url": "http://lucypetersondesign.com/tactile-hero.html",
+            "title": "tactile – hero",
+            "image": "http://lucypetersondesign.com/media/posts/96/Tactile-1.jpeg",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "TACTILE"
+            ],
+            "date_published": "2021-02-02T00:42:27-08:00",
+            "date_modified": "2021-02-02T00:42:27-08:00"
+        },
+        {
+            "id": "http://lucypetersondesign.com/tactile-rolls.html",
+            "url": "http://lucypetersondesign.com/tactile-rolls.html",
+            "title": "tactile – rolls",
+            "image": "http://lucypetersondesign.com/media/posts/95/Tactile_StudentExhibition.jpeg",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "TACTILE"
+            ],
+            "date_published": "2021-02-02T00:42:05-08:00",
+            "date_modified": "2021-02-02T00:42:05-08:00"
+        },
+        {
+            "id": "http://lucypetersondesign.com/tactile-colpa.html",
+            "url": "http://lucypetersondesign.com/tactile-colpa.html",
+            "title": "tactile – colpa",
+            "image": "http://lucypetersondesign.com/media/posts/94/Artboard-3.png",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "TACTILE"
+            ],
+            "date_published": "2021-02-02T00:41:37-08:00",
+            "date_modified": "2021-02-02T00:41:37-08:00"
+        },
+        {
+            "id": "http://lucypetersondesign.com/tactile-tommy.html",
+            "url": "http://lucypetersondesign.com/tactile-tommy.html",
+            "title": "tactile – tommy",
+            "image": "http://lucypetersondesign.com/media/posts/93/Artboard-3-copy.png",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "TACTILE"
+            ],
+            "date_published": "2021-02-02T00:41:23-08:00",
+            "date_modified": "2021-02-02T00:41:23-08:00"
+        },
+        {
+            "id": "http://lucypetersondesign.com/tactile-muzae.html",
+            "url": "http://lucypetersondesign.com/tactile-muzae.html",
+            "title": "tactile – muzae",
+            "image": "http://lucypetersondesign.com/media/posts/92/Artboard-2.png",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "TACTILE"
+            ],
+            "date_published": "2021-02-02T00:41:07-08:00",
+            "date_modified": "2021-02-02T00:41:07-08:00"
+        },
+        {
+            "id": "http://lucypetersondesign.com/tactile-adi.html",
+            "url": "http://lucypetersondesign.com/tactile-adi.html",
+            "title": "tactile – adi",
+            "image": "http://lucypetersondesign.com/media/posts/91/Artboard-1.png",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "TACTILE"
+            ],
+            "date_published": "2021-02-02T00:40:50-08:00",
+            "date_modified": "2021-02-02T00:40:50-08:00"
+        },
+        {
             "id": "http://lucypetersondesign.com/tactile-gif.html",
             "url": "http://lucypetersondesign.com/tactile-gif.html",
             "title": "tactile – gif",
@@ -27,7 +111,7 @@
         {
             "id": "http://lucypetersondesign.com/tactile-exhibition-design-and-branding.html",
             "url": "http://lucypetersondesign.com/tactile-exhibition-design-and-branding.html",
-            "title": "Tactile Exhibition Design &amp; Branding",
+            "title": "Exhibition Design &amp; Identity",
             "author": {
                 "name": "lucy peterson"
             },
@@ -35,7 +119,7 @@
                    "TACTILE"
             ],
             "date_published": "2021-02-02T00:08:29-08:00",
-            "date_modified": "2021-02-02T00:09:14-08:00"
+            "date_modified": "2021-02-02T00:35:35-08:00"
         },
         {
             "id": "http://lucypetersondesign.com/the-portal-coalition.html",
@@ -64,90 +148,6 @@
             ],
             "date_published": "2019-03-19T22:50:00-07:00",
             "date_modified": "2019-03-19T22:50:00-07:00"
-        },
-        {
-            "id": "http://lucypetersondesign.com/ccg-box-blur.html",
-            "url": "http://lucypetersondesign.com/ccg-box-blur.html",
-            "title": "ccg - box blur",
-            "image": "http://lucypetersondesign.com/media/posts/86/BoxBlur.jpg",
-            "author": {
-                "name": "lucy peterson"
-            },
-            "tags": [
-                   "CCG"
-            ],
-            "date_published": "2019-03-19T21:57:00-07:00",
-            "date_modified": "2019-03-19T22:09:34-07:00"
-        },
-        {
-            "id": "http://lucypetersondesign.com/ccg-josephine-taylor.html",
-            "url": "http://lucypetersondesign.com/ccg-josephine-taylor.html",
-            "title": "ccg - josephine taylor",
-            "image": "http://lucypetersondesign.com/media/posts/84/jotaylor.jpg",
-            "author": {
-                "name": "lucy peterson"
-            },
-            "tags": [
-                   "CCG"
-            ],
-            "date_published": "2019-03-19T21:55:19-07:00",
-            "date_modified": "2019-03-19T21:55:19-07:00"
-        },
-        {
-            "id": "http://lucypetersondesign.com/ccg-jon-bernson.html",
-            "url": "http://lucypetersondesign.com/ccg-jon-bernson.html",
-            "title": "ccg - jon bernson",
-            "image": "http://lucypetersondesign.com/media/posts/83/jonbernson.jpg",
-            "author": {
-                "name": "lucy peterson"
-            },
-            "tags": [
-                   "CCG"
-            ],
-            "date_published": "2019-03-19T21:55:01-07:00",
-            "date_modified": "2019-03-19T21:55:01-07:00"
-        },
-        {
-            "id": "http://lucypetersondesign.com/ccg-leonora.html",
-            "url": "http://lucypetersondesign.com/ccg-leonora.html",
-            "title": "ccg - leonora",
-            "image": "http://lucypetersondesign.com/media/posts/85/LeonoraCarrington.jpg",
-            "author": {
-                "name": "lucy peterson"
-            },
-            "tags": [
-                   "CCG"
-            ],
-            "date_published": "2019-03-19T21:51:00-07:00",
-            "date_modified": "2019-03-19T22:10:14-07:00"
-        },
-        {
-            "id": "http://lucypetersondesign.com/catharine-clark-gallery.html",
-            "url": "http://lucypetersondesign.com/catharine-clark-gallery.html",
-            "title": "Catharine Clark Gallery Digital Banners",
-            "content_html": "<p class=\"p1\"><strong>Design Challenge:</strong> To create unique and creative marketing collateral for the gallery while maintaining but refreshing the brand</p>\n<p class=\"p1\"><strong>Targeted Audience:</strong> Collectors, both previous and new, new audience members for the gallery and gallery events</p>\n<p class=\"p1\"><strong>The Solution:</strong> Working in the loose guidelines that had been established, I made design choices to elevate the brand without losing its identity, such selecting a new well designed typeface, creating layout standards, and maintaining brand treatment across collateral. I used photography and the work of the artists to enhance marketing materials, making it about the art and promoting the artist’s work.</p>\n<p class=\"p2\"> </p>\n<p class=\"p2\"> </p>",
-            "image": "http://lucypetersondesign.com/media/posts/82/CCGhover.jpg",
-            "author": {
-                "name": "lucy peterson"
-            },
-            "tags": [
-                   "CCG"
-            ],
-            "date_published": "2019-03-19T21:48:51-07:00",
-            "date_modified": "2020-08-23T17:18:59-07:00"
-        },
-        {
-            "id": "http://lucypetersondesign.com/micro-site-video.html",
-            "url": "http://lucypetersondesign.com/micro-site-video.html",
-            "title": "micro site - video",
-            "author": {
-                "name": "lucy peterson"
-            },
-            "tags": [
-                   "MICROSITE"
-            ],
-            "date_published": "2018-04-14T16:25:14-07:00",
-            "date_modified": "2018-04-14T16:25:14-07:00"
         }
     ]
 }

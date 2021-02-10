@@ -112,43 +112,41 @@
             "id": "http://lucypetersondesign.com/signature-pos.html",
             "url": "http://lucypetersondesign.com/signature-pos.html",
             "title": "signature – POS",
-            "image": "http://lucypetersondesign.com/media/posts/113/H1_21_SIGNATURE_RED_SEASONAL_TOOLKIT_Page_41.jpg",
             "author": {
                 "name": "lucy peterson"
             },
             "tags": [
                    "signature"
             ],
-            "date_published": "2021-02-05T20:21:49-08:00",
-            "date_modified": "2021-02-05T20:21:54-08:00"
+            "date_published": "2021-02-05T20:20:00-08:00",
+            "date_modified": "2021-02-09T23:00:41-08:00"
+        },
+        {
+            "id": "http://lucypetersondesign.com/sig-pos-02.html",
+            "url": "http://lucypetersondesign.com/sig-pos-02.html",
+            "title": "sig POS 02",
+            "image": "http://lucypetersondesign.com/media/posts/122/Signature_Single.jpg",
+            "author": {
+                "name": "lucy peterson"
+            },
+            "tags": [
+                   "signature"
+            ],
+            "date_published": "2021-02-05T20:20:00-08:00",
+            "date_modified": "2021-02-09T22:47:10-08:00"
         },
         {
             "id": "http://lucypetersondesign.com/signature-digital-ads-akii.html",
             "url": "http://lucypetersondesign.com/signature-digital-ads-akii.html",
-            "title": "signature – digital ads – akii",
-            "image": "http://lucypetersondesign.com/media/posts/112/H1_21_SIGNATURE_RED_SEASONAL_TOOLKIT_Page_54.jpg",
+            "title": "signature – digital ads ",
             "author": {
                 "name": "lucy peterson"
             },
             "tags": [
                    "signature"
             ],
-            "date_published": "2021-02-05T20:21:03-08:00",
-            "date_modified": "2021-02-05T20:21:03-08:00"
-        },
-        {
-            "id": "http://lucypetersondesign.com/signature-digital-ads.html",
-            "url": "http://lucypetersondesign.com/signature-digital-ads.html",
-            "title": "signature - digital ads",
-            "image": "http://lucypetersondesign.com/media/posts/111/H1_21_SIGNATURE_RED_SEASONAL_TOOLKIT_Page_55.jpg",
-            "author": {
-                "name": "lucy peterson"
-            },
-            "tags": [
-                   "signature"
-            ],
-            "date_published": "2021-02-05T20:20:42-08:00",
-            "date_modified": "2021-02-05T20:21:12-08:00"
+            "date_published": "2021-02-05T20:19:00-08:00",
+            "date_modified": "2021-02-09T23:00:49-08:00"
         }
     ]
 }

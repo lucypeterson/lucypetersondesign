@@ -3,7 +3,7 @@
     <title>lucy-peterson-design</title>
     <link href="http://lucypetersondesign.com/feed.xml" rel="self" />
     <link href="http://lucypetersondesign.com" />
-    <updated>2021-02-08T20:59:02-08:00</updated>
+    <updated>2021-02-09T23:00:57-08:00</updated>
     <author>
         <name>lucy peterson</name>
     </author>
@@ -109,12 +109,25 @@
         <id>http://lucypetersondesign.com/signature-pos.html</id>
             <category term="signature"/>
 
-        <updated>2021-02-05T20:21:54-08:00</updated>
+        <updated>2021-02-09T23:00:41-08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>signature – digital ads – akii</title>
+        <title>sig POS 02</title>
+        <author>
+            <name>lucy peterson</name>
+        </author>
+        <link href="http://lucypetersondesign.com/sig-pos-02.html"/>
+        <id>http://lucypetersondesign.com/sig-pos-02.html</id>
+            <category term="signature"/>
+
+        <updated>2021-02-09T22:47:10-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>signature – digital ads </title>
         <author>
             <name>lucy peterson</name>
         </author>
@@ -122,20 +135,7 @@
         <id>http://lucypetersondesign.com/signature-digital-ads-akii.html</id>
             <category term="signature"/>
 
-        <updated>2021-02-05T20:21:03-08:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>signature - digital ads</title>
-        <author>
-            <name>lucy peterson</name>
-        </author>
-        <link href="http://lucypetersondesign.com/signature-digital-ads.html"/>
-        <id>http://lucypetersondesign.com/signature-digital-ads.html</id>
-            <category term="signature"/>
-
-        <updated>2021-02-05T20:21:12-08:00</updated>
+        <updated>2021-02-09T23:00:49-08:00</updated>
             <summary></summary>
         <content></content>
     </entry>

@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "lucy-peterson-design",
     "description": "",
-    "home_page_url": "http://lucypetersondesign.com",
-    "feed_url": "http://lucypetersondesign.com/feed.json",
+    "home_page_url": "https://lucypetersondesign.com",
+    "feed_url": "https://lucypetersondesign.com/feed.json",
     "user_comment": "",
-    "icon": "http://lucypetersondesign.com/media/website/logo.png",
+    "icon": "https://lucypetersondesign.com/media/website/logo.png",
     "author": {
         "name": "lucy peterson"
     },
     "items": [
         {
-            "id": "http://lucypetersondesign.com/7fam-homepage.html",
-            "url": "http://lucypetersondesign.com/7fam-homepage.html",
+            "id": "https://lucypetersondesign.com/7fam-homepage.html",
+            "url": "https://lucypetersondesign.com/7fam-homepage.html",
             "title": "7FAM  – Homepage",
-            "image": "http://lucypetersondesign.com/media/posts/135/HomePage_Mockup_01.jpg",
+            "image": "https://lucypetersondesign.com/media/posts/135/HomePage_Mockup_01.jpg",
             "author": {
                 "name": "lucy peterson"
             },
@@ -25,10 +25,10 @@
             "date_modified": "2022-06-14T15:05:16-07:00"
         },
         {
-            "id": "http://lucypetersondesign.com/7fam-email-03.html",
-            "url": "http://lucypetersondesign.com/7fam-email-03.html",
+            "id": "https://lucypetersondesign.com/7fam-email-03.html",
+            "url": "https://lucypetersondesign.com/7fam-email-03.html",
             "title": "7FAM – Email – 03",
-            "image": "http://lucypetersondesign.com/media/posts/134/Email_Mockup_03.jpg",
+            "image": "https://lucypetersondesign.com/media/posts/134/Email_Mockup_03.jpg",
             "author": {
                 "name": "lucy peterson"
             },
@@ -39,10 +39,10 @@
             "date_modified": "2022-06-14T15:05:00-07:00"
         },
         {
-            "id": "http://lucypetersondesign.com/7fam-email-02.html",
-            "url": "http://lucypetersondesign.com/7fam-email-02.html",
+            "id": "https://lucypetersondesign.com/7fam-email-02.html",
+            "url": "https://lucypetersondesign.com/7fam-email-02.html",
             "title": "7FAM – Email – 02",
-            "image": "http://lucypetersondesign.com/media/posts/133/Email_Mockup_01.jpg",
+            "image": "https://lucypetersondesign.com/media/posts/133/Email_Mockup_01.jpg",
             "author": {
                 "name": "lucy peterson"
             },
@@ -53,10 +53,10 @@
             "date_modified": "2022-06-14T15:04:38-07:00"
         },
         {
-            "id": "http://lucypetersondesign.com/7fam-email-01.html",
-            "url": "http://lucypetersondesign.com/7fam-email-01.html",
+            "id": "https://lucypetersondesign.com/7fam-email-01.html",
+            "url": "https://lucypetersondesign.com/7fam-email-01.html",
             "title": "7FAM – Email – 01",
-            "image": "http://lucypetersondesign.com/media/posts/132/Email_Mockup_02.jpg",
+            "image": "https://lucypetersondesign.com/media/posts/132/Email_Mockup_02.jpg",
             "author": {
                 "name": "lucy peterson"
             },
@@ -67,10 +67,10 @@
             "date_modified": "2022-06-14T15:04:32-07:00"
         },
         {
-            "id": "http://lucypetersondesign.com/7fam-paid.html",
-            "url": "http://lucypetersondesign.com/7fam-paid.html",
+            "id": "https://lucypetersondesign.com/7fam-paid.html",
+            "url": "https://lucypetersondesign.com/7fam-paid.html",
             "title": "7FAM – Paid",
-            "image": "http://lucypetersondesign.com/media/posts/131/PaidMedia.jpg",
+            "image": "https://lucypetersondesign.com/media/posts/131/PaidMedia.jpg",
             "author": {
                 "name": "lucy peterson"
             },
@@ -81,10 +81,10 @@
             "date_modified": "2022-06-14T14:46:54-07:00"
         },
         {
-            "id": "http://lucypetersondesign.com/ga-email-3.html",
-            "url": "http://lucypetersondesign.com/ga-email-3.html",
+            "id": "https://lucypetersondesign.com/ga-email-3.html",
+            "url": "https://lucypetersondesign.com/ga-email-3.html",
             "title": "GA – Email 3",
-            "image": "http://lucypetersondesign.com/media/posts/130/Email_Cinderella.jpg",
+            "image": "https://lucypetersondesign.com/media/posts/130/Email_Cinderella.jpg",
             "author": {
                 "name": "lucy peterson"
             },
@@ -95,10 +95,10 @@
             "date_modified": "2022-06-14T14:03:18-07:00"
         },
         {
-            "id": "http://lucypetersondesign.com/ga-email-2.html",
-            "url": "http://lucypetersondesign.com/ga-email-2.html",
+            "id": "https://lucypetersondesign.com/ga-email-2.html",
+            "url": "https://lucypetersondesign.com/ga-email-2.html",
             "title": "GA – Email 2",
-            "image": "http://lucypetersondesign.com/media/posts/129/Email_Good90s.jpg",
+            "image": "https://lucypetersondesign.com/media/posts/129/Email_Good90s.jpg",
             "author": {
                 "name": "lucy peterson"
             },
@@ -109,10 +109,10 @@
             "date_modified": "2022-06-14T13:56:31-07:00"
         },
         {
-            "id": "http://lucypetersondesign.com/ga-email.html",
-            "url": "http://lucypetersondesign.com/ga-email.html",
+            "id": "https://lucypetersondesign.com/ga-email.html",
+            "url": "https://lucypetersondesign.com/ga-email.html",
             "title": "GA – Email",
-            "image": "http://lucypetersondesign.com/media/posts/128/Email_GoodSwim.jpg",
+            "image": "https://lucypetersondesign.com/media/posts/128/Email_GoodSwim.jpg",
             "author": {
                 "name": "lucy peterson"
             },
@@ -123,10 +123,10 @@
             "date_modified": "2022-06-14T13:47:57-07:00"
         },
         {
-            "id": "http://lucypetersondesign.com/ga-stories-2.html",
-            "url": "http://lucypetersondesign.com/ga-stories-2.html",
+            "id": "https://lucypetersondesign.com/ga-stories-2.html",
+            "url": "https://lucypetersondesign.com/ga-stories-2.html",
             "title": "GA stories 2",
-            "image": "http://lucypetersondesign.com/media/posts/127/SOCIAL_CINDERELLA.jpg",
+            "image": "https://lucypetersondesign.com/media/posts/127/SOCIAL_CINDERELLA.jpg",
             "author": {
                 "name": "lucy peterson"
             },
@@ -137,10 +137,10 @@
             "date_modified": "2022-06-14T10:57:37-07:00"
         },
         {
-            "id": "http://lucypetersondesign.com/ga-stories.html",
-            "url": "http://lucypetersondesign.com/ga-stories.html",
+            "id": "https://lucypetersondesign.com/ga-stories.html",
+            "url": "https://lucypetersondesign.com/ga-stories.html",
             "title": "GA  stories",
-            "image": "http://lucypetersondesign.com/media/posts/126/SOCIAL_BODYSUITS.jpg",
+            "image": "https://lucypetersondesign.com/media/posts/126/SOCIAL_BODYSUITS.jpg",
             "author": {
                 "name": "lucy peterson"
             },

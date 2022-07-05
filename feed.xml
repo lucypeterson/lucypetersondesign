@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>lucy-peterson-design</title>
-    <link href="http://lucypetersondesign.com/feed.xml" rel="self" />
-    <link href="http://lucypetersondesign.com" />
-    <updated>2022-06-27T09:57:34-07:00</updated>
+    <link href="https://lucypetersondesign.com/feed.xml" rel="self" />
+    <link href="https://lucypetersondesign.com" />
+    <updated>2022-07-04T20:04:30-07:00</updated>
     <author>
         <name>lucy peterson</name>
     </author>
-    <id>http://lucypetersondesign.com</id>
+    <id>https://lucypetersondesign.com</id>
 
     <entry>
         <title>7FAM  – Homepage</title>
         <author>
             <name>lucy peterson</name>
         </author>
-        <link href="http://lucypetersondesign.com/7fam-homepage.html"/>
-        <id>http://lucypetersondesign.com/7fam-homepage.html</id>
+        <link href="https://lucypetersondesign.com/7fam-homepage.html"/>
+        <id>https://lucypetersondesign.com/7fam-homepage.html</id>
             <category term="7FAM"/>
 
         <updated>2022-06-14T15:05:16-07:00</updated>
@@ -27,8 +27,8 @@
         <author>
             <name>lucy peterson</name>
         </author>
-        <link href="http://lucypetersondesign.com/7fam-email-03.html"/>
-        <id>http://lucypetersondesign.com/7fam-email-03.html</id>
+        <link href="https://lucypetersondesign.com/7fam-email-03.html"/>
+        <id>https://lucypetersondesign.com/7fam-email-03.html</id>
             <category term="7FAM"/>
 
         <updated>2022-06-14T15:05:00-07:00</updated>
@@ -40,8 +40,8 @@
         <author>
             <name>lucy peterson</name>
         </author>
-        <link href="http://lucypetersondesign.com/7fam-email-02.html"/>
-        <id>http://lucypetersondesign.com/7fam-email-02.html</id>
+        <link href="https://lucypetersondesign.com/7fam-email-02.html"/>
+        <id>https://lucypetersondesign.com/7fam-email-02.html</id>
             <category term="7FAM"/>
 
         <updated>2022-06-14T15:04:38-07:00</updated>
@@ -53,8 +53,8 @@
         <author>
             <name>lucy peterson</name>
         </author>
-        <link href="http://lucypetersondesign.com/7fam-email-01.html"/>
-        <id>http://lucypetersondesign.com/7fam-email-01.html</id>
+        <link href="https://lucypetersondesign.com/7fam-email-01.html"/>
+        <id>https://lucypetersondesign.com/7fam-email-01.html</id>
             <category term="7FAM"/>
 
         <updated>2022-06-14T15:04:32-07:00</updated>
@@ -66,8 +66,8 @@
         <author>
             <name>lucy peterson</name>
         </author>
-        <link href="http://lucypetersondesign.com/7fam-paid.html"/>
-        <id>http://lucypetersondesign.com/7fam-paid.html</id>
+        <link href="https://lucypetersondesign.com/7fam-paid.html"/>
+        <id>https://lucypetersondesign.com/7fam-paid.html</id>
             <category term="7FAM"/>
 
         <updated>2022-06-14T14:46:54-07:00</updated>
@@ -79,8 +79,8 @@
         <author>
             <name>lucy peterson</name>
         </author>
-        <link href="http://lucypetersondesign.com/ga-email-3.html"/>
-        <id>http://lucypetersondesign.com/ga-email-3.html</id>
+        <link href="https://lucypetersondesign.com/ga-email-3.html"/>
+        <id>https://lucypetersondesign.com/ga-email-3.html</id>
             <category term="GA"/>
 
         <updated>2022-06-14T14:03:18-07:00</updated>
@@ -92,8 +92,8 @@
         <author>
             <name>lucy peterson</name>
         </author>
-        <link href="http://lucypetersondesign.com/ga-email-2.html"/>
-        <id>http://lucypetersondesign.com/ga-email-2.html</id>
+        <link href="https://lucypetersondesign.com/ga-email-2.html"/>
+        <id>https://lucypetersondesign.com/ga-email-2.html</id>
             <category term="GA"/>
 
         <updated>2022-06-14T13:56:31-07:00</updated>
@@ -105,8 +105,8 @@
         <author>
             <name>lucy peterson</name>
         </author>
-        <link href="http://lucypetersondesign.com/ga-email.html"/>
-        <id>http://lucypetersondesign.com/ga-email.html</id>
+        <link href="https://lucypetersondesign.com/ga-email.html"/>
+        <id>https://lucypetersondesign.com/ga-email.html</id>
             <category term="GA"/>
 
         <updated>2022-06-14T13:47:57-07:00</updated>
@@ -118,8 +118,8 @@
         <author>
             <name>lucy peterson</name>
         </author>
-        <link href="http://lucypetersondesign.com/ga-stories-2.html"/>
-        <id>http://lucypetersondesign.com/ga-stories-2.html</id>
+        <link href="https://lucypetersondesign.com/ga-stories-2.html"/>
+        <id>https://lucypetersondesign.com/ga-stories-2.html</id>
             <category term="GA"/>
 
         <updated>2022-06-14T10:57:37-07:00</updated>
@@ -131,8 +131,8 @@
         <author>
             <name>lucy peterson</name>
         </author>
-        <link href="http://lucypetersondesign.com/ga-stories.html"/>
-        <id>http://lucypetersondesign.com/ga-stories.html</id>
+        <link href="https://lucypetersondesign.com/ga-stories.html"/>
+        <id>https://lucypetersondesign.com/ga-stories.html</id>
             <category term="GA"/>
 
         <updated>2022-06-14T10:52:14-07:00</updated>
